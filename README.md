@@ -110,6 +110,7 @@ Selected Ideas (to generate concepts for):
 19. Game
 
 Concepts: 
+
 We could gamifify the system by creating a point system. The point system could tell users something about
 how much the person knows about a subject. So we could potentially make ambassadeurs out of members with 
 high scores. 
