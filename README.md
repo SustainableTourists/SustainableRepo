@@ -97,8 +97,13 @@ All Ideas - Neuro Brainstorm:
 25. Ambassadors
 26. Send the "pant" to people
 
+Selected Ideas (to generate concepts for):
 
-Selected Ideas (to generate concepts for)
+Concepts: 
+
+Project:
+
+Pitch:
 
 
 
