@@ -28,9 +28,9 @@ All Challenges - Problems:
 
 Selected Challenges (to generate ideas for):
 7. Difficult to find information.
-11. Time-consuming.
-13. It's expensive already.
+11. Time-consuming. 
 12. How do you make users feel good about doing it?
+13. It's expensive already.
 15. People don't know how to be sustainable.
 
 
