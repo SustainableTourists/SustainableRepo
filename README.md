@@ -26,7 +26,9 @@ All Challenges - Problems:
 19. Is it just as important to be sustainable while being in the country?
 20. How do I know I traveled sustainably?
 
+
 Selected Challenges (to generate ideas for):
+
 7. Difficult to find information.
 11. Time-consuming. 
 12. How do you make users feel good about doing it?
@@ -94,6 +96,7 @@ All Ideas - Neuro Brainstorm:
 24. Testimony, to get feedback people will trust
 25. Ambassadors
 26. Send the "pant" to people
+
 
 Selected Ideas (to generate concepts for)
 
