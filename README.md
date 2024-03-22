@@ -110,6 +110,15 @@ Selected Ideas (to generate concepts for):
 19. Game
 
 Concepts: 
+We could gamifify the system by creating a point system. The point system could tell users something about
+how much the person knows about a subject. So we could potentially make ambassadeurs out of members with 
+high scores. 
+
+We could make it possible to make a souvenir out of waste people collect. So we could have some shops where 
+people come in with waste they have collected, maybe a specific weight, and then we make a souvenir out of it. 
+
+We could ask people if there is a specific area they want to contribute to. Maybe they want to aid the dolphins or 
+turtles, and so we can provide them with an opportunity to do that. 
 
 Project:
 
