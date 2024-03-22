@@ -1,7 +1,7 @@
 # SustainableRepo
 
 Problem Defifnition:
-Sustainable turist ... 
+Sustainable turist, how to be sustainable while traveling?
 
 
 All Challenges - Problems:
@@ -98,6 +98,16 @@ All Ideas - Neuro Brainstorm:
 26. Send the "pant" to people
 
 Selected Ideas (to generate concepts for):
+
+15. Souvenirs, Make it Collectible Personalized
+	• Make Your Own Souvenir out of Trash (3D Printer or Something)
+5. Make a point system
+9. Make App Social
+10. Ask People What They Want to Contribute To
+	• Personalized Travel Guide
+15. Souvenirs, Make it Collectible Personalized
+	• Make Your Own Souvenir out of Trash (3D Printer or Something)
+19. Game
 
 Concepts: 
 
