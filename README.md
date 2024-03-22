@@ -26,7 +26,7 @@ All Challenges - Problems:
 19. Is it just as important to be sustainable while being in the country?
 20. How do I know I traveled sustainably?
 
-Selected Challenges (to generate ideas for)
+Selected Challenges (to generate ideas for):
 7. Difficult to find information.
 11. Time-consuming.
 13. It's expensive already.
