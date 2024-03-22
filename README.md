@@ -1,5 +1,61 @@
 # SustainableRepo
-Neuro Brainstorm: 
+
+All Challenges - Problems:
+1. Can meat be sustainable?
+2. Information about how thorough you have to be.
+3. How to prepare for a sustainable trip.
+4. Difficult to know how locals live sustainably.
+5. Info on waste disposal.
+6. How to trust the info.
+7. Difficult to find information.
+8. How to find the info.
+9. Where to find the info.
+10. Hard to know what info to trust.
+11. Time-consuming.
+12. How do you make users feel good about doing it?
+13. It's expensive already.
+14. People associate sustainability with paying a premium.
+15. People don't know how to be sustainable.
+16. How to ensure accurate info.
+17. What does it mean to be sustainable for different cultures?
+18. Language barrier.
+19. Is it just as important to be sustainable while being in the country?
+20. How do I know I traveled sustainably?
+
+Selected Challenges (to generate ideas for)
+7. Difficult to find information.
+11. Time-consuming.
+13. It's expensive already.
+12. How do you make users feel good about doing it?
+15. People don't know how to be sustainable.
+
+
+Leap of faith assumptions:
+1. Market fit 
+2. Value hypothesis 
+3. Growt hypothesis
+4. Peolpe care about sustainability 
+5. People dont want to use time on it
+6. People get deterd if there is a lot of reading 
+7. People want to make up for traveling in the first place 
+8. Reels ans tiktok can get the message out 
+9. If it works it will change the world 
+10. People will only buy/subcribe if they save money 
+11. People only wants the app if its free 
+12. People are critical towards information 
+13. Pictograms can eliminate confusion and make it visual 
+14. Monkey see monkey do(thrash9
+15. After time it just feel wrong to litter, like smoking indoor
+16. Goverments will want to support/find
+17. People are becomming increasily more aware of climate change 
+18. People want to contribute to the cummunote(in our city) 
+19. It is a certain age group who are intersted 
+20. Young people care more about beeing green
+21. People want to travel sustainable 
+22. Good habits can be created on a vacation
+
+
+All Ideas - Neuro Brainstorm: 
 1. Group Travel = Cheaper
 2. Trains Only
 3. Pocket AI Device
@@ -35,52 +91,9 @@ Neuro Brainstorm:
 25. Ambassadors
 26. Send the "pant" to people
 
+Selected Ideas (to generate concepts for)
 
 
-Problems:
-1. Can meat be sustainable?
-2. Information about how thorough you have to be.
-3. How to prepare for a sustainable trip.
-4. Difficult to know how locals live sustainably.
-5. Info on waste disposal.
-6. How to trust the info.
-7. Difficult to find information.
-8. How to find the info.
-9. Where to find the info.
-10. Hard to know what info to trust.
-11. Time-consuming.
-12. How do you make users feel good about doing it?
-13. It's expensive already.
-14. People associate sustainability with paying a premium.
-15. People don't know how to be sustainable.
-16. How to ensure accurate info.
-17. What does it mean to be sustainable for different cultures?
-18. Language barrier.
-19. Is it just as important to be sustainable while being in the country?
-20. How do I know I traveled sustainably?
 
-Leap of faith assumptions:
-1. Market fit 
-2. Value hypothesis 
-3. Growt hypothesis
-4. Peolpe care about sustainability 
-5. People dont want to use time on it
-6. People get deterd if there is a lot of reading 
-7. People want to make up for traveling in the first place 
-8. Reels ans tiktok can get the message out 
-9. If it works it will change the world 
-10. People will only buy/subcribe if they save money 
-11. People only wants the app if its free 
-12. People are critical towards information 
-13. Pictograms can eliminate confusion and make it visual 
-14. Monkey see monkey do(thrash9
-15. After time it just feel wrong to litter, like smoking indoor
-16. Goverments will want to support/find
-17. People are becomming increasily more aware of climate change 
-18. People want to contribute to the cummunote(in our city) 
-19. It is a certain age group who are intersted 
-20. Young people care more about beeing green
-21. People want to travel sustainable 
-22. Good habits can be created on a vacation
 
 
