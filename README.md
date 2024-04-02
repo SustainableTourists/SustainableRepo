@@ -129,6 +129,26 @@ https://preview.webflow.com/preview/victors-fantastic-site-6681da?utm_medium=pre
 Pitch:
 
 
+Plan: 
+
+Landingpage
+Ranking system(test) how does a costumor feel with low rankings 
+Information about country
+Souvenir how does it work
+Profile
+landingpage: Categories - clik on most important. TEST
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
