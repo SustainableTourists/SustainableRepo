@@ -137,6 +137,7 @@ Information about country.
 Souvenir how does it work.
 Profile.
 landingpage: Categories - clik on most important. TEST.
+Which topics do we want to offer the costumor:
 
 
 
