@@ -138,7 +138,14 @@ Souvenir how does it work.
 Profile.
 landingpage: Categories - clik on most important. TEST.
 Which topics do we want to offer the costumor:
-
+- work away
+- hotels
+- experinces
+- souvenir
+- trash
+- resturants
+- info about the country
+- ... 
 
 
 
